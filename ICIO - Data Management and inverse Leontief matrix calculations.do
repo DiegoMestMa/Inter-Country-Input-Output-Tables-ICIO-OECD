@@ -20,7 +20,7 @@ set more off
 import delimited "$o2/ICIO_1995-1999/ICIO2021_`i'.csv", clear
 
 ******
-* 2.1. Verificar la no existencia de missing values (3 metodos)
+* 2.1. Verificar la no existencia de missing values
 ******
 
 *** 1.
